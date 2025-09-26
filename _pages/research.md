@@ -7,7 +7,7 @@ title: "Research"
 
 ### Working Papers
 ---
-Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming) 
+[Bureaucracy and Political Bias: Evidence from Floods](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf) (Forthcoming) 
 {: .pub-title }
 
 (with [Hannah Farkas](https://hannahfarkas.github.io/))
