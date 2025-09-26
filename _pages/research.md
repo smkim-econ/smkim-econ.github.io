@@ -13,11 +13,11 @@ title: "Research"
 ---
 
 [Measuring the impacts of air pollution](https://www.science.org/doi/10.1126/science.adl2935) - Science (2023)
-<p style="font-size:12px;">(with Robert Mendelsohn)</p>
+<p style="font-size:12px;">(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))</p>
 ![My photo]({{ "/assets/images/AirFig.jpg" | relative_url }}){: width="300"}
 
 [Climate change to increase crop failure in US](https://iopscience.iop.org/article/10.1088/1748-9326/acac41) - Envrionmental Research Letters (2023)
-<p style="font-size:12px;">(with Robert Mendelsohn)</p>
+<p style="font-size:12px;">(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))</p>
 ![My photo]({{ "/assets/images/AirFig.jpg" | relative_url }}){: width="300"}
 <details>
   <summary>Abstract</summary>
