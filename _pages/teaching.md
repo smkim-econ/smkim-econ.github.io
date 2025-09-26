@@ -5,16 +5,15 @@ title: "Teaching"
 
 ### Columbia
 ---
-<p style="font-size:20px;">
-* Teaching Assistant (Master's), Fundamentals of Environmental Economics [Fall 2025]
-* Teaching Assistant (Undergraduate), Globalization and its Risks [Spring 2025]
-* Teaching Assistant (Undergraduate), Science for Sustainable Development [Fall 2024]
-</p>
+* Teaching Assistant (Master's)
+*   Fundamentals of Environmental Economics [Fall 2025]
+* Teaching Assistant (Undergraduate)
+*   Globalization and its Risks [Spring 2025]
+*   Science for Sustainable Development [Fall 2024]
 
 ### UC San Diego
 ---
-<p style="font-size:20px;">
-* Teaching Assistant (Master's), Policy Analysis and Decision Theory [Spring 2024]
-* Teaching Assistant (Master's), Fundamentals of Energy Systems and Innovation [Winter 2023]
-* Teaching Assistant (Master's), GIS and Spatial Data Analysis [Fall 2023]
-</p>
+* Teaching Assistant (Master's)
+*   Policy Analysis and Decision Theory [Spring 2024]
+*   Fundamentals of Energy Systems and Innovation [Winter 2023]
+*   GIS and Spatial Data Analysis [Fall 2023]
