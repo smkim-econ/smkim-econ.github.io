@@ -1,0 +1,8 @@
+.pub-title {
+  margin-bottom: 0;   /* remove extra spacing under the title */
+}
+
+.coauthors {
+  font-size: 12px;
+  margin-top: 2px;    /* shrink the gap above collaborators */
+}
