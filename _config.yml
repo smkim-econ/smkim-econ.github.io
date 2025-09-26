@@ -56,20 +56,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sean Reese" #CHANGE THIS
-  avatar : "/assets/images/smile.jpeg" #CHANGE THIS
+  name   : "Seung Min Kim" #CHANGE THIS
+  avatar : "/assets/images/Kim_profile_crossed_cropped.jpg" #CHANGE THIS
   bio    : "PhD Student at Columbia University" #CHANGE THIS
-  email  : "sean.reese@columbia.edu" #CHANGE THIS
+  email  : "sk5316@columbia.edu" #CHANGE THIS
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/" #CHANGE THIS
+      url: "https://scholar.google.com/citations?user=5RnYCSYAAAAJ&hl=en" #CHANGE THIS
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sean-reese" #CHANGE THIS
+      url: "https://smkim-econ.github.io/" #CHANGE THIS
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
