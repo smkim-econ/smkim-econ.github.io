@@ -59,6 +59,7 @@ author:
   name   : "Sean Reese" #CHANGE THIS
   avatar : "/assets/images/smile.jpeg" #CHANGE THIS
   bio    : "PhD Student at Columbia University" #CHANGE THIS
+  email  : "sean.reese@columbia.edu" #CHANGE THIS
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
