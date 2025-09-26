@@ -3,17 +3,12 @@ permalink: /Teaching/
 title: "Teaching"
 ---
 
-### Columbia
+### Columbia University
 ---
-* Teaching Assistant (Master's)
-   * Fundamentals of Environmental Economics [Fall 2025]
-* Teaching Assistant (Undergraduate)
-   * Globalization and its Risks [Spring 2025]
-   * Science for Sustainable Development [Fall 2024]
+* Data Analysis for Policy Research in R [TA, Master's 40+, Fall 2025]
+* Financial Economics of Climate and Sustainability [TA, PhD 100+, Spring 2025]
 
-### UC San Diego
+### Yale University
 ---
-* Teaching Assistant (Master's)
-   * Policy Analysis and Decision Theory [Spring 2024]
-   * Fundamentals of Energy Systems and Innovation [Winter 2023]
-   * GIS and Spatial Data Analysis [Fall 2023]
+* Economics of Natural Resources [Head TA, undergraduate 130+, Fall 2023]
+* Economics of Natural Resources [TA, undergraduate 120+, Fall 2022]
