@@ -9,9 +9,10 @@ title: "Research"
 
 ### Publications
 
-Air Climate Equity in US Climate Policy
+[Air Climate Equity in US Climate Policy](https://www.pnas.org/doi/10.1073/pnas.2217124120) - PNAS (2023)
+(with Pascal Polonik, Kate Ricke, and Jen Burney)
 
-![My photo](/assets/images/AirImg.jpg)
+<img src="/assets/img/myphoto.png" alt="My photo" width="400" height="400">
 
 <details>
   <summary>Abstract</summary>
