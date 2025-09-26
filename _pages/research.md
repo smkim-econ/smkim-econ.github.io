@@ -7,7 +7,7 @@ title: "Research"
 
 ### Working Papers
 ---
-[Bureaucracy and Political Bias: Evidence from Flood](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf)
+Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming) 
 {: .pub-title }
 
 (with [Hannah Farkas](https://hannahfarkas.github.io/))
@@ -18,8 +18,11 @@ title: "Research"
 </details>
 
 [Evaluating carbon offset projects using machine learning](https://www.dropbox.com/scl/fi/xqapd7tshm6pxiyjt0a64/Offset_Ver241211.pdf?rlkey=8ntm7f7b5xydthnewenkg31pm&st=9tavnndg&dl=0)
+{: .pub-title }
 
 (with [Luke Sanford](https://environment.yale.edu/directory/faculty/luke-sanford))
+{: .coauthors }
+
 <details>
   <summary>Abstract</summary>
   <p style="font-size:12px;"> Carbon offsets allow firms and governments to meet CO2 emissions targets by financing emissions reductions undertaken by other entities. For the financed offset projects to be effective, their resulting CO2 sequestration must be “additional,” meaning it exceeds what would have occurred in the absence of the project. Here, we use new high-resolution data on forest carbon to measure carbon sequestration in 93 forestry projects, accounting for over 80 percent of offsets in the California Carbon market. We develop a causal machine learning approach using satellite and geospatial data to assess the projects' additionality. Directly comparing the tons of forest-sequestered carbon to issued credits, we find that 48% of the credits sold were additional. However, if we exclude controversial first-year credits, the additionality increases to 74%. These results indicate that forestry projects do deliver real climate benefits, but also underscore persistent gaps: many credits still represent carbon that would have been sequestered even without offset payments. Strengthening offset protocols is therefore essential to ensure that carbon markets meaningfully advance climate mitigation.</p>
