@@ -21,5 +21,9 @@ If only I had something to put here ;-;
 ### Work In Progress
 ---
 
-* Project 1
-* Project 2
+Fishery-Induced Evolution in U.S.-Managed Stocks
+
+Which 30? Operationalizing the 30x30 Initiative
+
+Climate change, animal health, and human health: Evidence from dengue outbreaks in Banglades
+<p style="font-size:12px;">(with Seung Min Kim)</p>
