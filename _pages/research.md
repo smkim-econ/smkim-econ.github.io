@@ -1,6 +1,6 @@
 ---
-permalink: /CV/
-title: "CV"
+permalink: /Research/
+title: "Research"
 ---
 
 Work In Progress
