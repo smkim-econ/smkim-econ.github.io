@@ -28,33 +28,27 @@ title: "Research"
 
 Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming)
 
-(with [Lex van Geen](https://www.ldeo.columbia.edu/~avangeen/), [Prabhat Barnwal](https://sites.google.com/site/prabhatbarnwal/), [Kazi Matin Ahmed](https://www.du.ac.bd/faculty/faculty_details/glg/1906), [Mahfuz Khan](https://www.du.ac.bd/faculty/faculty_details/GLG/2223) et al.)
-{: style="font-size:12px;"}
+(with [Lex van Geen](https://www.ldeo.columbia.edu/~avangeen/), [Prabhat Barnwal](https://sites.google.com/site/prabhatbarnwal/), [Kazi Matin Ahmed](https://www.du.ac.bd/faculty/faculty_details/glg/1906), [Mahfuz Khan](https://www.du.ac.bd/faculty/faculty_details/GLG/2223) et al.){: style="font-size:12px;"}
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
 
-(with [Kwansoo Kim](https://are.snu.ac.kr/en/professors/kwansoo-kim) and Jeongha Hwang)
-{: style="font-size:12px;"}
+(with [Kwansoo Kim](https://are.snu.ac.kr/en/professors/kwansoo-kim) and Jeongha Hwang){: style="font-size:12px;"}
 
 [Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.science.org/doi/10.1126/science.adl2935) - *Journal of Environmental Economics and Management* (2025)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-{: style="font-size:12px;"}
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
 
 [Air Pollution and Solar Energy: Evidence from Wildfires](https://www.journals.uchicago.edu/doi/10.1086/731514) - *Journal of the Association of Environmental and Resource Economists* (2025)
 
-(with [Kenneth Gillingham](https://resources.environment.yale.edu/gillingham/))
-{: style="font-size:12px;"}
+(with [Kenneth Gillingham](https://resources.environment.yale.edu/gillingham/)){: style="font-size:12px;"}
 
 [Measuring the impacts of air pollution](https://www.science.org/doi/10.1126/science.adl2935) - *Science* (2023)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-{: style="font-size:12px;"}
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
 
 [Climate change to increase crop failure in US](https://iopscience.iop.org/article/10.1088/1748-9326/acac41) - *Envrionmental Research Letters* (2023)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-{: style="font-size:12px;"}
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
 
 ### Work In Progress
 ---
