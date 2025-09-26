@@ -34,24 +34,33 @@ Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of shari
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
 
+<span style="font-size:12px;"> 
 (with [Kwansoo Kim](https://are.snu.ac.kr/en/professors/kwansoo-kim) and Jeongha Hwang)
-{: style="font-size:12px;"}
+</span>
 
 [Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.science.org/doi/10.1126/science.adl2935) - *Journal of Environmental Economics and Management* (2025)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
+<span style="font-size:12px;"> 
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
+</span>
 
 [Air Pollution and Solar Energy: Evidence from Wildfires](https://www.journals.uchicago.edu/doi/10.1086/731514) - *Journal of the Association of Environmental and Resource Economists* (2025)
 
-(with [Kenneth Gillingham](https://resources.environment.yale.edu/gillingham/)){: style="font-size:12px;"}
+<span style="font-size:12px;"> 
+(with [Kenneth Gillingham](https://resources.environment.yale.edu/gillingham/))
+</span>
 
 [Measuring the impacts of air pollution](https://www.science.org/doi/10.1126/science.adl2935) - *Science* (2023)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
+<span style="font-size:12px;"> 
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
+</span>
 
 [Climate change to increase crop failure in US](https://iopscience.iop.org/article/10.1088/1748-9326/acac41) - *Envrionmental Research Letters* (2023)
 
-(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn)){: style="font-size:12px;"}
+<span style="font-size:12px;"> 
+(with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
+</span>
 
 ### Work In Progress
 ---
