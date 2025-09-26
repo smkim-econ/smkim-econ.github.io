@@ -28,8 +28,9 @@ title: "Research"
 
 Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming)
 
+<span style="font-size:12px;"> 
 (with [Lex van Geen](https://www.ldeo.columbia.edu/~avangeen/), [Prabhat Barnwal](https://sites.google.com/site/prabhatbarnwal/), [Kazi Matin Ahmed](https://www.du.ac.bd/faculty/faculty_details/glg/1906), [Mahfuz Khan](https://www.du.ac.bd/faculty/faculty_details/GLG/2223) et al.)
-<span style="font-size:12px;"> {: style="font-size:12px;"} </span>
+</span>
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
 
