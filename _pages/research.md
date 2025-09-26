@@ -25,5 +25,5 @@ Fishery-Induced Evolution in U.S.-Managed Stocks
 
 Which 30? Operationalizing the 30x30 Initiative
 
-Climate change, animal health, and human health: Evidence from dengue outbreaks in Banglades
+Breeding Fish Breede Risk: Aquaculture and Dengue in Bangladesh
 <p style="font-size:12px;">(with Seung Min Kim)</p>
