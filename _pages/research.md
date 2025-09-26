@@ -30,10 +30,7 @@ title: "Research"
 
 ### Work In Progress
 ---
+``Improving state effectiveness in environmental risk mitigation: Large-scale experimental evidence from Bangladesh'' (with Prabhat Barnwal, Michael Best, Md. Ahasan Habib, Lex van Geen, and Jack Willis)
 
-Fishery-Induced Evolution in U.S.-Managed Stocks
+``System-level investment'' (with Caroline Flammer and Steve Lydenberg)
 
-Which 30? Operationalizing the 30x30 Initiative
-
-Breeding Fish Breeds Risk: Aquaculture and Dengue in Bangladesh
-<p style="font-size:12px;">(with Seung Min Kim)</p>
