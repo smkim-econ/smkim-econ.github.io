@@ -9,11 +9,12 @@ title: "Research"
 ---
 [Bureaucracy and Political Bias: Evidence from Flood](https://ceep.columbia.edu/sites/ceep.columbia.edu/files/content/papers/n35.pdf)
 {: .pub-title }
+
 (with [Hannah Farkas](https://hannahfarkas.github.io/))
 {: .coauthors }
 <details>
   <summary>Abstract</summary>
-  <p style="font-size:12px;"> We study whether bureaucrats preemptively reflect the executive politician’s preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 4 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following an average-sized flooding event. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.</p>
+  <p style="font-size:14px;"> We study whether bureaucrats preemptively reflect the executive politician’s preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 4 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following an average-sized flooding event. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.</p>
 </details>
 
 [Evaluating carbon offset projects using machine learning](https://www.dropbox.com/scl/fi/xqapd7tshm6pxiyjt0a64/Offset_Ver241211.pdf?rlkey=8ntm7f7b5xydthnewenkg31pm&st=9tavnndg&dl=0)
