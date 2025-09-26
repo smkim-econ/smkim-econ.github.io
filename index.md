@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-About Me 
-========
 Hello! I am a third-year PhD student in the Sustainable Development program at Columbia University’s School of International and Public Affairs.
 
 My primary research interests are in natural resources, with a focus on biodiversity and fisheries.
