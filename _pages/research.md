@@ -11,6 +11,8 @@ title: "Research"
 
 Air Climate Equity in US Climate Policy
 
+![My photo](/assets/images/AirImg.jpg)
+
 <details>
   <summary>Abstract</summary>
 
