@@ -106,6 +106,13 @@ defaults:
       layout: single
       author_profile: true
 
+sass:
+  style: compressed
+
+include:
+  - _pages
+  - assets/css/custom.css
+
 category_archive:
   type: liquid
   path: /categories/
