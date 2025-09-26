@@ -1,19 +1,19 @@
 ---
 permalink: /Research/
 title: "Research"
+# Code for inserting images <img src="/assets/images/AirFig.jpg" alt="My photo" width="400" height="400"> (can't figure out why it isn't working
 ---
 
 ### Work In Progress
 
-
+* Project 1
+* Project 2
 
 ### Publications
 
-<img src="/assets/images/AirFig.jpg" alt="My photo" width="400" height="400"> [Air Climate Equity in US Climate Policy](https://www.pnas.org/doi/10.1073/pnas.2217124120) - PNAS (2023)
 
+[Air Climate Equity in US Climate Policy](https://www.pnas.org/doi/10.1073/pnas.2217124120) - PNAS (2023)
 <p style="font-size:12px;">(with Pascal Polonik, Kate Ricke, and Jen Burney)</p>
-
-
 <details>
   <summary>Abstract</summary>
 
