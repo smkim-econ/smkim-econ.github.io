@@ -13,7 +13,7 @@ title: "Research"
 {: .coauthors }
 <details>
   <summary>Abstract</summary>
-  <p style="font-size:14px;"> We study whether bureaucrats preemptively reflect the executive politician’s preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 4 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following an average-sized flooding event. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.</p>
+  <p style="font-size:12px;"> We study whether bureaucrats preemptively reflect the executive politician’s preferences in their decisions. Combining novel administrative data from the Federal Emergency Management Agency (FEMA) with hydrological models, we find that a standard deviation decrease in a county’s alignment with the president leads to a 4 percentage point drop in the probability of bureaucrats flagging a county as requiring federal aid following an average-sized flooding event. This bias disappears in the most severe floods. We find evidence suggesting that such biases are significantly reduced when a career civil servant is overseeing the bureaucratic process rather than a political appointee.</p>
 </details>
 
 [Evaluating carbon offset projects using machine learning](https://www.dropbox.com/scl/fi/xqapd7tshm6pxiyjt0a64/Offset_Ver241211.pdf?rlkey=8ntm7f7b5xydthnewenkg31pm&st=9tavnndg&dl=0)
@@ -31,10 +31,10 @@ title: "Research"
 ---
 
 Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming)
-{: .pub-title}
+{: .pub-title }
 
 (with [Lex van Geen](https://www.ldeo.columbia.edu/~avangeen/), [Prabhat Barnwal](https://sites.google.com/site/prabhatbarnwal/), [Kazi Matin Ahmed](https://www.du.ac.bd/faculty/faculty_details/glg/1906), [Mahfuz Khan](https://www.du.ac.bd/faculty/faculty_details/GLG/2223) et al.)
-{: .coauthors}
+{: .coauthors }
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
 
@@ -43,28 +43,28 @@ Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather 
 </span>
 
 [Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.sciencedirect.com/science/article/abs/pii/S0095069624001906) - *Journal of Environmental Economics and Management* (2025)
+{: .pub-title }
 
-<span style="font-size:12px;"> 
 (with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-</span>
+{: .coauthors }
 
 [Air Pollution and Solar Energy: Evidence from Wildfires](https://www.journals.uchicago.edu/doi/10.1086/731514) - *Journal of the Association of Environmental and Resource Economists* (2025)
+{: .pub-title }
 
-<span style="font-size:12px;"> 
 (with [Kenneth Gillingham](https://resources.environment.yale.edu/gillingham/))
-</span>
+{: .coauthors }
 
 [Measuring the impacts of air pollution](https://www.science.org/doi/10.1126/science.adl2935) - *Science* (2023)
+{: .pub-title }
 
-<span style="font-size:12px;"> 
 (with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-</span>
+{: .coauthors }
 
 [Climate change to increase crop failure in US](https://iopscience.iop.org/article/10.1088/1748-9326/acac41) - *Envrionmental Research Letters* (2023)
+{: .pub-title }
 
-<span style="font-size:12px;"> 
 (with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
-</span>
+{: .coauthors }
 
 ### Work In Progress
 ---
