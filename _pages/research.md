@@ -37,10 +37,10 @@ Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of shari
 {: .coauthors }
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
+{: .pub-title }
 
-<span style="font-size:12px;"> 
 (with [Kwansoo Kim](https://are.snu.ac.kr/en/professors/kwansoo-kim) and Jeongha Hwang)
-</span>
+{: .coauthors }
 
 [Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.sciencedirect.com/science/article/abs/pii/S0095069624001906) - *Journal of Environmental Economics and Management* (2025)
 {: .pub-title }
