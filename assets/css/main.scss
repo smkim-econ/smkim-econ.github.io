@@ -1,0 +1,27 @@
+---
+# Only the front matter gets processed by Jekyll
+---
+
+@charset "utf-8";
+
+// Import the theme's styles
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* --- YOUR CUSTOM STYLES GO BELOW --- */
+
+/* Fix 1: Reduce space between publication title and co-authors */
+.pub-title {
+  margin-bottom: 0.1em; /* Drastically reduces space after the title */
+}
+
+.coauthors {
+  margin-top: 0;        /* Removes space above the co-authors list */
+  font-style: italic;
+  font-size: 0.9em;     /* Optional: makes co-author font slightly smaller */
+}
+
+/* Fix 2: Add space between the abstract and the next publication */
+details {
+  margin-bottom: 2.5em; /* Pushes the next publication title down */
+}
