@@ -32,10 +32,10 @@ title: "Research"
 ---
 
 Well-water Arsenic Mitigation in Bangladesh: Benefits outweighing risks of sharing private data - *Environmental Science & Technology* (Forthcoming)
-{: .pub-title }
+{: .pub-title}
 
 (with [Lex van Geen](https://www.ldeo.columbia.edu/~avangeen/), [Prabhat Barnwal](https://sites.google.com/site/prabhatbarnwal/), [Kazi Matin Ahmed](https://www.du.ac.bd/faculty/faculty_details/glg/1906), [Mahfuz Khan](https://www.du.ac.bd/faculty/faculty_details/GLG/2223) et al.)
-{: .coauthors }
+{: .coauthors}
 
 Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather & Climate Extremes* (Forthcoming)
 
@@ -43,7 +43,7 @@ Estimating Spring Frost Risk in Apple Farms from Crop Insurance Data - *Weather 
 (with [Kwansoo Kim](https://are.snu.ac.kr/en/professors/kwansoo-kim) and Jeongha Hwang)
 </span>
 
-[Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.science.org/doi/10.1126/science.adl2935) - *Journal of Environmental Economics and Management* (2025)
+[Climate Change and Fractional Outcomes: A Long-Run Panel Study of Crop Failure and Pasture Rates](https://www.sciencedirect.com/science/article/abs/pii/S0095069624001906) - *Journal of Environmental Economics and Management* (2025)
 
 <span style="font-size:12px;"> 
 (with [Robert Mendelsohn](https://environment.yale.edu/directory/faculty/robert-mendelsohn))
