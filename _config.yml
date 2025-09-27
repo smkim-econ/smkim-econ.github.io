@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Seung Min Kim" #CHANGE THIS
-  avatar : "/assets/images/Kim_profile_crossed_cropped.jpg" #CHANGE THIS
+  avatar : "/assets/images/Kim_profile_crossed_cropped2.jpg" #CHANGE THIS
   bio    : "PhD Student at Columbia University" #CHANGE THIS
   email  : "sk5316@columbia.edu" #CHANGE THIS
   links:
