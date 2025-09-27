@@ -10,14 +10,14 @@
 
 /* --- YOUR CUSTOM STYLES GO BELOW --- */
 
-/* Fix 1: Reduce space between publication title and co-authors */
 .pub-title {
-  margin-bottom: 0.1em; /* Drastically reduces space after the title */
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .coauthors {
-  margin-top: 0;        /* Removes space above the co-authors list */
-  font-size: 0.7em;     /* Optional: makes co-author font slightly smaller */
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 /* Fix 2: Add space between the abstract and the next publication */
